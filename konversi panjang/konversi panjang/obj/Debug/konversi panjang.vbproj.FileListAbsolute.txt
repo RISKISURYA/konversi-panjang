@@ -1,0 +1,12 @@
+C:\Users\riskisuryap\source\repos\konversi panjang\konversi panjang\bin\Debug\konversi panjang.exe.config
+C:\Users\riskisuryap\source\repos\konversi panjang\konversi panjang\bin\Debug\konversi panjang.exe
+C:\Users\riskisuryap\source\repos\konversi panjang\konversi panjang\bin\Debug\konversi panjang.pdb
+C:\Users\riskisuryap\source\repos\konversi panjang\konversi panjang\bin\Debug\konversi panjang.xml
+C:\Users\riskisuryap\source\repos\konversi panjang\konversi panjang\obj\Debug\konversi panjang.vbproj.AssemblyReference.cache
+C:\Users\riskisuryap\source\repos\konversi panjang\konversi panjang\obj\Debug\konversi_panjang.Form1.resources
+C:\Users\riskisuryap\source\repos\konversi panjang\konversi panjang\obj\Debug\konversi_panjang.Resources.resources
+C:\Users\riskisuryap\source\repos\konversi panjang\konversi panjang\obj\Debug\konversi panjang.vbproj.GenerateResource.cache
+C:\Users\riskisuryap\source\repos\konversi panjang\konversi panjang\obj\Debug\konversi panjang.vbproj.CoreCompileInputs.cache
+C:\Users\riskisuryap\source\repos\konversi panjang\konversi panjang\obj\Debug\konversi panjang.exe
+C:\Users\riskisuryap\source\repos\konversi panjang\konversi panjang\obj\Debug\konversi panjang.xml
+C:\Users\riskisuryap\source\repos\konversi panjang\konversi panjang\obj\Debug\konversi panjang.pdb
